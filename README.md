@@ -14,7 +14,7 @@ This is a simple web application that allows you to keep track of scores for a p
 To run the scorekeeper web application, follow these steps:
 
 1. Clone the repository: `git clone [repository URL]`
-2. Open the `index.html` file in a web browser.
+2. Open the `scoreKeeper.html` file in a web browser.
 
 ## Usage
 
