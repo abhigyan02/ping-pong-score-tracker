@@ -23,3 +23,5 @@ To run the scorekeeper web application, follow these steps:
 3. Use the dropdown menu to select the winning score.
 4. The game will end and display the winner once a player reaches the winning score.
 5. Click the "Reset" button to reset the scores and start a new game.
+
+![image](https://github.com/abhigyan02/ping-pong-score-tracker/assets/75851981/87f29a69-f2e6-43b6-ace1-bcb74b4f3c95)
